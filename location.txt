@@ -1,0 +1,3 @@
+Put these files here:
+/Users/sethurban/.config/StardewValley/Saves
+
